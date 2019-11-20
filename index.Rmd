@@ -45,7 +45,7 @@ Siguiendo su petición, a continuación le presentamos:
   
   * Restaurantes vanguardistas, jóvenes...con una atmósfera especial, pero sin olvidar nunca la buena comida.
   
-  * Excursiones fuera de Madrid incluyendo almuerzo, en las que podrán disfrutar de la historia y la gastronomía de la zona.
+  * Excursion fuera de Madrid incluyendo almuerzo, en las que podrán disfrutar de la historia y la gastronomía de la zona.
   
   * Actividades de medio dia que se realizan en la ciudad de Madrid y nos explican parte de su "alma"
   
@@ -340,44 +340,147 @@ Grupos de 10 a 65 personas
 <br>
 
 
-## **Excursiones día completo** {.tabset .tabset-fade}
+## **Excursión día completo** {.tabset .tabset-fade}
 
 ### Toledo 
 
-En consrtrucción...
+<iframe src="https://uploads.knightlab.com/storymapjs/ee2f18a9c1765fc1a4086f419505950c/toledo-full-day-tour/index.html" frameborder="0" width="100%" height="800"></iframe>
 
-### Visita a Bodega y Cata de Vinos
+<div class="precio">
+<p> PRECIOS: 
+  <ul>
+  * Bus de 25 plazas a disposición 8h para la visita a Toledo: 530€ IVA inc
+  
+  * Bus de 50 plazas a disposición 8h para la visita a Toledo: 650€ IVA inc
+  
+  * Guía oficial para hacer la excursión saliendo de Madrid con el grupo y haciendo tour por Toledo a pie: 380€ IVA inc (será necesario tener un guía cada 25 personas como máximo)
+  
+  * Almuerzo en Alfileritos 24 - menu compuesto de 3 platos incluyendo bebida y café, desde: 46,50€ por persona IVA inc
+  
+  * Entrada a la Catedral de Toledo 15€ IVA inc por persona.
+   </ul>
+</p>
+</div>
 
-En consrtrucción...
+<br>
 
-### Aranjuez
-
-En consrtrucción...
+*En sábados o festivos, el precio del guía incrementará un 20%*
 
 <br>
 <br>
 
-
-## **Actividades en Madrid** {.tabset .tabset-fade}
+## **Actividades en Madrid** 
 
 ### Santiago Bernabeu
 
-En consrtrucción...
+<iframe src="https://uploads.knightlab.com/storymapjs/ee2f18a9c1765fc1a4086f419505950c/tour-santiago-bernabeu/index.html" frameborder="0" width="100%" height="900"></iframe>
+
+<div class="precio">
+<p> PRECIOS: 
+  <ul>
+  * Entrada al Estadio incluyendo visita a museo y sala audiovisual (con audioguia): 38,50€ IVA inc 
+   </ul>
+</p>
+</div>
+
+<br>
+<br>
 
 ### Las Ventas
 
-En consrtrucción...
+<iframe src="https://uploads.knightlab.com/storymapjs/ee2f18a9c1765fc1a4086f419505950c/las-ventas/index.html" frameborder="0" width="100%" height="800"></iframe>
+
+<div class="precio">
+<p> PRECIOS: 
+  <ul>
+  * Visita guiada a la plaza de toros (1h30minutos) (minimo 11 personas y maximo 30 por grupo): 25€ por persona IVA inc
+  
+  * Se puede añadir al tour la opción de disfrutar de los juegos virtuales (5 minutos por persona):
+  
+  * El perfecto broche para esta visita es un almuerzo o cena en la misma plaza, degustando platos típicos de la gastronomía española: 
+  
+  * Bus de 25 plazas a disposición 4h para la visita: 260€ IVA inc
+  
+  * Bus de 50 plazas a disposición 4h para la visita: 325€ IVA inc
+  
+   </ul>
+</p>
+</div>
+
+<br>
+<br>
+
+
 
 ### Tour de Tapas
 
-En consrtrucción...
+<iframe src="https://uploads.knightlab.com/storymapjs/ee2f18a9c1765fc1a4086f419505950c/tour-de-tapas/index.html" frameborder="0" width="100%" height="1000"></iframe>
+
+<div class="precio">
+<p> PRECIOS: 
+  <ul>
+  * Tapas tour incluyendo 1 guia cada 25 personas, 3 paradas de tapas incluyendo bebida (este tour puede sustituir a un almuerzo o cena), desde: 70€ por persona IVA inc
+  
+  * Bus de 25 plazas a disposición 4h para la visita: 260€ IVA inc
+  
+  * Bus de 50 plazas a disposición 4h para la visita: 325€ IVA inc
+  
+   </ul>
+</p>
+</div>
+
+<br>
+
+*El tour se realizará caminando por el centro pero necesitarán el bus para ir/volver desde el hotel hasta el punto de inicio*
+
+
+<br>
+<br>
+
 
 ### Palacio Real Madrid
 
-En consrtrucción...
+<iframe src="https://uploads.knightlab.com/storymapjs/ee2f18a9c1765fc1a4086f419505950c/visita-palacio-real-de-madrid/index.html" frameborder="0" width="100%" height="800"></iframe>
+
+<div class="precio">
+<p> PRECIOS: 
+  <ul>
+  * Bus de 25 plazas a disposición 4h para la visita a Madrid y Palcio real: 260€ IVA inc
+  
+  * Bus de 50 plazas a disposición 4h para la visita a Madrid y Palcio real: 325€ IVA inc
+  
+  * Guía oficial para la visita (4h): 260€ IVA inc (será necesario tener un guía cada 25 personas como máximo)
+  
+  * Entrada al Palacio Real incluyendo auriculares: 15€ IVA inc por persona.
+   </ul>
+</p>
+</div>
 
 <br>
 <br>
+
+### Madrid secreta
+
+<iframe src="https://uploads.knightlab.com/storymapjs/ee2f18a9c1765fc1a4086f419505950c/teleferico-y-estacion-de-4-caminos/index.html" frameborder="0" width="100%" height="800"></iframe>
+
+<div class="precio">
+<p> PRECIOS: 
+  <ul>
+  * Bus de 25 plazas a disposición 4h para hacer el tour: 260€ IVA inc
+  
+  * Bus de 50 plazas a disposición 4h para hacer el tour: 325€ IVA inc
+  
+  * Guía oficial para la visita (4h): 260€ IVA inc (será necesario tener un guía cada 25 personas como máximo)
+  
+  * Tickets para el teleferico: 10€ por persona IVA inc
+   </ul>
+</p>
+</div>
+
+<br>
+<br>
+
+
 
 
 ## **Traslados**
@@ -409,8 +512,9 @@ Tienen una flota de más de 30 vehículos, desde 5 a 60 plazas con diferentes ni
 </p>
 </div>
 
+<br>
 
-**Estos precios no incluyen asistencia.**
+*Estos precios no incluyen asistencia.*
 
 <br>
 <br>
@@ -429,7 +533,7 @@ Tienen una flota de más de 30 vehículos, desde 5 a 60 plazas con diferentes ni
 <br>
 <br>
 
-## Sorprendan a sus clientes!!
+## **Sorprendan a sus clientes!!**
 
 <div class="client_offer">
 
